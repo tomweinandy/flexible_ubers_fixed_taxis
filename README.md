@@ -8,5 +8,7 @@ File description:
 * "nyc_taxi_tnc_data.csv" is the dataset used in the analysis and only includes business days
 
 Car service trip data comes from https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Read the article online at https://rdcu.be/cc8eC
 
-The paper associated with this research is currently being considered by an academic journal. Please contact the author (tomweinandy at gmail) before citing.
+Please cite as 
+Weinandy, Thomas J., Ryan, Michael J. "Flexible Ubers and Fixed Taxis: the Effect of Fuel Prices on Car Services." Journal Industry, Competition and Trade (2021). https://doi.org/10.1007/s10842-020-00351-3
