@@ -11,6 +11,7 @@ Car service trip data comes from https://www1.nyc.gov/site/tlc/about/tlc-trip-re
 
 Read the article online at https://rdcu.be/cc8eC
 
+
 Please cite as
 
 Weinandy, Thomas J., Ryan, Michael J. "Flexible Ubers and Fixed Taxis: the Effect of Fuel Prices on Car Services." Journal Industry, Competition and Trade (2021). https://doi.org/10.1007/s10842-020-00351-3
